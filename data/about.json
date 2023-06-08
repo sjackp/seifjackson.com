@@ -1,0 +1,33 @@
+{
+  "bio": "Hey there! I'm Seif Jackson, a 24-year-old Egyptian-American with a passion for blending art and technology. I've dived into the world of AI, mastering everything from prompt engineering to training and finetuning. I'm also a music producer, DJ, and visual artist who loves to experiment and create unique experiences. Based in Cairo, my journey has taken me to various educational institutions, and I'm now pursuing my business studies at the EU Business School's Barcelona campus. Let's work together and explore the possibilities of what we can create!",
+  "skills": ["AI Engineering & Generative Art", "Music Production & DJ", "Visual Art & Graphic Design"],
+  "experience": [
+  {
+  "position": "Generative Art & AI Expert",
+  "company": "Upwork Freelancer",
+  "duration": "2019-Present"
+  },
+  {
+  "position": "Music Producer & DJ",
+  "company": "Independent",
+  "duration": "2016-Present"
+  }
+  ],
+  "education": [
+  {
+  "degree": "High School Diploma",
+  "school": "Misr American College",
+  "duration": "2004-2015"
+  },
+  {
+  "degree": "High School Diploma",
+  "school": "Victory American College",
+  "duration": "2015-2018"
+  },
+  {
+  "degree": "BBA in Business Administration",
+  "school": "EU Business School",
+  "duration": "2018-2019 & 2022-Present"
+  }
+  ]
+  }
